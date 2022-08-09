@@ -24,7 +24,7 @@
 + TDD
 
 ### 👉 DDD(도메인 주도 설계)
-<img src="https://user-images.githubusercontent.com/58936137/183662955-f4d9a369-02d6-4e27-9678-51e68b238208.png" width="500px" height="400px">
+<img src="https://user-images.githubusercontent.com/58936137/183679108-33579fec-ff1c-428e-a42f-1b9df6e33c09.png" width="500px" height="400px">
 
 ### 👉 클래스 다이어그램
 
