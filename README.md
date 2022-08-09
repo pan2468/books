@@ -14,7 +14,7 @@
 
 ### 🛠 사용 기술(기술스택)
 #### Back-End
-+ Java 8
++ Java 11
 + SpringBoot 2.7.1
 + SpringSecurity
 + QueryDSL
