@@ -38,7 +38,7 @@
 </details>
 
 <details>
-<summary><b>검색엔진(ElasticSearch) 적용해보기</b></summary>
+<summary><b>메인 화면 검색엔진(ElasticSearch) 적용해보기</b></summary>
 <div markdown="2">
 
 </div>
@@ -49,7 +49,7 @@
 
 
 ### 👉 프로젝트 설명
-+ 도서 쇼핑몰? 설정: <a href="">프로젝트 환경설정</a>
++ 도서 쇼핑몰 설정: <a href="">프로젝트 환경설정</a>
   
 
 
