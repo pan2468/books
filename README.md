@@ -2,6 +2,8 @@
 
 ### 👉 프로젝트 목적 
 
+### 📌 요구사항 정의서
++ https://aeolian-caravan-34d.notion.site/PRD-2a9f36e74af14984879fce314cb2edf3
 
 ### 👉 기능설명
 + JpaRepository 인터페이스 이용하여 CRUD 게시판 구현하기
