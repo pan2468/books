@@ -28,8 +28,7 @@
 
 ### 👉 클래스 다이어그램
 
-
-
+<img src="https://user-images.githubusercontent.com/58936137/183893357-54380ccf-8ece-4320-917f-3ec761b0d911.png" width="500px" height="400px">
 
 ### 💡 핵심기능
 <details>
