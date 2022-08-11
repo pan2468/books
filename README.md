@@ -63,7 +63,18 @@
 
 
 ### 📌 트러블 이슈
+<details>
+<summary><b>layout css 화면 적용이 안됨</b></summary>
+<div markdown="2">
 
+- layout:decorate="~{layouts/layout1}"
+- 원인:
+
+### 💡 해결방안
++ 
+
+</div>
+</details>
 
 ### 👉 프로젝트 서비스 화면
 
