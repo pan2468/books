@@ -125,6 +125,21 @@ MemberController.class
 </div>
 </details>
 
+
+<details>
+<summary><b>Thymeleaf 500 Error 오류 발생</b></summary>
+<div markdown="2">
+
+    - Caused by: org.attoparser.ParseException: Error resolving template
+    - 원인: 
+    
+ ### 💡 해결방법
+    + 
+
+
+</div>
+</details>
+
 ### 👉 프로젝트 서비스 화면
 
 ### 👉 프로젝트 설명
