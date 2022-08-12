@@ -146,7 +146,7 @@ MemberController.class
       layout:decorate="~{layouts/layout1}"> // 500 Error 오류 발생
     ~~~
 
-    </div>
+  </div>
 </details>
     
 
@@ -162,7 +162,7 @@ MemberController.class
     ~~~
 
 
-    </div>
+  </div>
 </details>
     
 </div>
