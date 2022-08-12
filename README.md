@@ -130,12 +130,12 @@ MemberController.class
 <summary><b>Thymeleaf 500 Error 오류 발생</b></summary>
 <div markdown="2">
 
-    - Caused by: org.attoparser.ParseException: Error resolving template
-    - 원인: Thymeleaf layout 설정 오류 
+- Caused by: org.attoparser.ParseException: Error resolving template
+- 원인: Thymeleaf layout 설정 오류 
     
  ### 💡 해결방법
 
-    <details>
+<details>
     <summary><b>기존 코드</b></summary>
     <div markdown="2">
 
