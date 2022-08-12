@@ -70,8 +70,57 @@
 - layout:decorate="~{layouts/layout1}"
 - 원인:
 
-### 💡 해결방안
+### 💡 해결방법
 + 
+
+</div>
+</details>
+
+
+
+<details>
+<summary><b>500 Error Controller 오류 발생</b></summary>
+<div markdown="2">
+
+- Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'restfulController' method  
+- 원인: RestController과 MemberController @GetMapping(/login) url에 login 중복으로 오류 발생
+
+### 💡 해결방법
+
+<details>
+<summary><b>기존 코드</b></summary>
+<div markdown="2">
+
+MemberController.class
+~~~
+    @GetMapping("/login")
+    public String login(){
+
+        return "member/memberLogin";
+    }
+
+~~~
+
+</div>
+</details>
+
+<details>
+<summary><b>개선 코드</b></summary>
+<div markdown="2">
+
+MemberController.class
+~~~
+    @GetMapping("/logins") // 수정 후 개선
+    public String login(){
+
+        return "member/memberLogin";
+    }
+
+~~~
+
+</div>
+</details>
+
 
 </div>
 </details>
