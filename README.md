@@ -134,7 +134,39 @@ MemberController.class
     - 원인: 
     
  ### 💡 해결방법
-    + 
+
+    <details>
+    <summary><b>기존 코드</b></summary>
+    <div markdown="2">
+
+    memberLogin.html
+    ~~~
+    <html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{layouts/layout1}"> // 500 Error 오류 발생
+    ~~~
+
+    </div>
+</details>
+    
+
+<details>
+    <summary><b>개선 코드</b></summary>
+    <div markdown="2">
+
+    memberLogin.html
+    ~~~
+    <html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{layout/layout1}"> // layouts > layout 으로 수정 후 개선
+    ~~~
+
+
+    </div>
+</details>
+    
+    
+
 
 
 </div>
