@@ -1,4 +1,4 @@
-## 💡 도서 쇼핑몰
+## 💡 도서 찿기 프로젝트
 
 ### 👉 프로젝트 목적 
 
@@ -63,19 +63,6 @@
 
 
 ### 📌 트러블 이슈
-<details>
-<summary><b>layout css 화면 적용이 안됨</b></summary>
-<div markdown="2">
-
-- layout:decorate="~{layouts/layout1}"
-- 원인:
-
-### 💡 해결방법
-+ 
-
-</div>
-</details>
-
 
 
 <details>
