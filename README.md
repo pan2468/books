@@ -154,7 +154,15 @@ memberLogin.html
     
 </div>
 </details>
+
+<details>
+    <summary><b>layout 오류</b></summary>
+    <div markdown="2">
+
+- Caused by: org.attoparser.ParseException:
     
+</div>
+</details>    
 
 ### 👉 프로젝트 서비스 화면
 
